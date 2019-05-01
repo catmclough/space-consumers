@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Class-Path: processing.jar
-Main-Class: edu.nyu.cs.cs101.java.Driver
-
