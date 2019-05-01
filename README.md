@@ -15,4 +15,4 @@ It's written in Java and using the Processing library's PApplet to draw the visu
 
 ## A Note About Code Quality
 
-This is one of the first applications I ever wrote, so the code quality is... how do I put this... real bad. I wanted to preserve the code as I originally wrote it because it makes me proud of how much I've learned since I first started learning OO concepts, but I also couldn't stand to look at it without doing a bit of refactoring. The legible version of the app lives in the branch 2019-refactor if you'd like to take a look.
+This is one of the first applications I ever wrote, so the code quality is... how do I put this... real bad. There are no tests, way too many comments, and plenty of other glaring problems that could be refactored. That being said, I like that this project is a little time-capsule of where I was when I first started learning OO concepts. It makes me proud to look back and see how much I've learned since I first started learning to program.
